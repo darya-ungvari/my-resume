@@ -1,0 +1,253 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: #f5f7fa;
+    font-family: 'Montserrat', sans-serif;
+    padding: 20px;
+}
+.wrapper {
+    background-color: white;
+    display: flex;
+    width: 1100px;
+    margin: 0 auto;
+}
+.sidebar {
+    background-color: #1e2939;
+    width: 370px;
+
+}
+.my-photo {
+    width: 370px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.about-me-container {
+    padding-right:90px ;
+    padding-left: 90px;
+    padding-top: 110px;
+    padding-bottom: 110px;
+}
+.contacts-container {
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 60px;
+}
+.contacts-title {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+.contacts-link {
+    opacity: 0.5;
+    color: #ffffff;
+    opacity: 95%;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.42px;
+}
+.contacts-link-type {
+    color: #ffffff;
+    opacity: 95%;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-right: 10px;
+}
+.tech-skills-title {
+
+    color: #ffffff;
+    opacity: 95%;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 20px;
+}
+.tech-skills-container {
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 55px;
+
+}
+.tech-skills-item {
+   
+    color: #d75f11;
+    
+ }
+ .tech-skills-text {
+    color: #ffffff;
+    opacity: 95%;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: 15px
+ }
+ .soft-skils-title {
+    color: #ffffff;
+    opacity: 95%;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 20px;
+     
+ }
+ .soft-skills-container {
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 55px;
+    margin-bottom: 376px;
+ }
+   
+.soft-skills-item {
+   
+    color: #d75f11;
+        
+     }
+.tech-skills-text {
+    color: #ffffff;
+    opacity: 95%;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: 15px
+}
+        
+.profession {
+    color: #000000;
+    opacity: 95%;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 20px;
+
+}
+.my-name {
+    opacity: 95%;
+    color: #000000;
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 89px;
+}
+.info-container{
+    margin-bottom: 65px;
+}
+.description {
+    color: #595959;
+    opacity: 95%;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.42px;
+    width: 500px;
+    
+
+}
+.about-me-title {
+    opacity: 95%;
+    color: #000000;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 20px;
+}
+.project-item {
+    opacity: 95%;
+    color: #000000;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-left: 17px;
+
+}
+.projects-link {
+    opacity: 95%;
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.tech-name {
+    opacity: 95%;
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.dots {
+    color: #595959;
+    opacity: 70%;
+    font-size: 10px;
+    letter-spacing: 1px;
+
+}
+.project-container {
+    margin-bottom: 55px;
+}
+.profession-title {
+    opacity: 95%;
+    color: #000000;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-top: 30px;
+    margin-bottom: 14px;
+}
+.profession-company {
+    color: #d75f11;
+}
+.period-job {
+    color: #a8a8a8;
+    opacity: 95%;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.36px;
+
+}
+.horizontal-line {
+    color: #000000;
+    font-size: 14px;
+    
+}
+.education-container {
+    margin-top: 55px;
+}
+.university-name {
+    opacity: 95%;
+    color: #ff6b08;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.48px;
+}
+.profession-subject {
+    opacity: 95%;
+    color: #000000;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-top: 18px;
+    
+
+
+
+
+    
+}
+.description-job {
+    color: #595959;
+    opacity: 95%;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.42px;
+    margin-left: 15px;                                             
+
+    
+    width: 500px;
+}
